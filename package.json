@@ -1,0 +1,37 @@
+{
+  "name": "@ednandias/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint configuration used by Rocketseat.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ednan-dias/ednandias-eslint-config.git"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "5.59.6",
+    "@typescript-eslint/parser": "5.59.6",
+    "eslint-config-prettier": "8.8.0",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint-plugin-react": "7.32.2",
+    "prettier": "2.8.8"
+  },
+  "peerDependencies": {
+    "typescript": "^4.9.4",
+    "eslint": "8.40.0"
+  },
+   "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  },
+  "author": {
+    "name": "Ednan Dias",
+    "email": "ednan.741@gmail.com",
+    "url": "https://ednandias.netlify.app"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ednan-dias/ednandias-eslint-config/issues"
+  },
+  "homepage": "https://github.com/ednan-dias/ednandias-eslint-config#readme"
+}
