@@ -47,12 +47,6 @@ module.exports = {
         },
       },
     ],
-    '@typescript-eslint/explicit-function-return-type': [
-      'warn',
-      {
-        allowExpressions: true,
-      },
-    ],
     'prettier/prettier': [
       'warn',
       {

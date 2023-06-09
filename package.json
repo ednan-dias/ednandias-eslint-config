@@ -1,7 +1,7 @@
 {
   "name": "@ednan-dias/eslint-config",
   "version": "1.0.1",
-  "description": "ESLint configuration used by Rocketseat.",
+  "description": "ESLint configuration used for me (Ednan Dias).",
   "main": "index.js",
   "repository": {
     "type": "git",
